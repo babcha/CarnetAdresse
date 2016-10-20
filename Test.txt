@@ -1,0 +1,14 @@
+1) Lien page d'acceuille :
+
+localhost/Test/web/app_dev.php/login
+
+
+login = admin   mdp = admin
+
+login = user    mdp = user
+
+
+
+2) menu Gestion des contact :
+
+http://localhost/Test/web/app_dev.php/contact/
